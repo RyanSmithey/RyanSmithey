@@ -1,6 +1,5 @@
 - Hi, I’m @RyanSmithey
 - How to reach me RSmithey42@gmail.com
-- Website:  https://rsmithey42.wixsite.com/portfolio
 - LinkedIn: https://www.linkedin.com/in/ryan-smithey-21415b21b/
 
 Over the past 4 years I have contionually improved my programming skills through the use of projects. This github represents some of those projects.
